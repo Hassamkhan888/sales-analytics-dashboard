@@ -2,8 +2,8 @@
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="https://github.com/Hassamkhan888/sales-analytics-dashboard/blob/main/Sales%20Analytics%20Dashboard.PNG" alt="Sales Analytics Dashboard" width="800"/>
-</p>
+  <img src="[https://github.com/Hassamkhan888/sales-analytics-dashboard/blob/main/Sales%20Analytics%20Dashboard.PNG" alt="Sales Analytics Dashboard" width="800"/>
+</p>](https://github.com/Hassamkhan888/sales-analytics-dashboard/blob/e39e104d47ef687feede41875d52d244f9a06c74/Sales%20Analytics%20Dashboard.PNG)
 
 ---
 
